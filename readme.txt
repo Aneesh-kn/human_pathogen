@@ -1,0 +1,1 @@
+This project is for creation of pathogen list using medical abstracts using LLM
